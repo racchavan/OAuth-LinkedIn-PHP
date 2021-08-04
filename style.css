@@ -1,0 +1,16 @@
+body{
+	padding:40px 20px;
+	word-wrap: break-word;
+}
+.btn-primary{
+	background:#0a66c2;color:white;
+	padding:20px; font-weight:800;
+}
+.btn-link{
+	background:#0a66c2;color:white;
+	padding:10px;
+}
+h1,h2,h3,h4,h5,p{
+	display:block;
+	margin: 20px 10px;
+}
